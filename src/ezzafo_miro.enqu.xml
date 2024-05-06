@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENQU" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD25V>
+    <VIEWNAME>EZZAFO_MIRO</VIEWNAME>
+    <DDLANGUAGE>1</DDLANGUAGE>
+    <AGGTYPE>E</AGGTYPE>
+    <ROOTTAB>ZAFO_MIRO_HEAD</ROOTTAB>
+    <DDTEXT>对账单锁对象</DDTEXT>
+   </DD25V>
+   <DD26E_TABLE>
+    <DD26E>
+     <VIEWNAME>EZZAFO_MIRO</VIEWNAME>
+     <TABNAME>ZAFO_MIRO_HEAD</TABNAME>
+     <TABPOS>0001</TABPOS>
+     <FORTABNAME>ZAFO_MIRO_HEAD</FORTABNAME>
+     <ENQMODE>E</ENQMODE>
+    </DD26E>
+   </DD26E_TABLE>
+   <DD27P_TABLE>
+    <DD27P>
+     <VIEWNAME>EZZAFO_MIRO</VIEWNAME>
+     <OBJPOS>0001</OBJPOS>
+     <VIEWFIELD>MANDT</VIEWFIELD>
+     <TABNAME>ZAFO_MIRO_HEAD</TABNAME>
+     <FIELDNAME>MANDT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ENQMODE>E</ENQMODE>
+    </DD27P>
+    <DD27P>
+     <VIEWNAME>EZZAFO_MIRO</VIEWNAME>
+     <OBJPOS>0002</OBJPOS>
+     <VIEWFIELD>MIRO_NO</VIEWFIELD>
+     <TABNAME>ZAFO_MIRO_HEAD</TABNAME>
+     <FIELDNAME>MIRO_NO</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ENQMODE>E</ENQMODE>
+     <CONVEXIT>ALPHA</CONVEXIT>
+    </DD27P>
+   </DD27P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>

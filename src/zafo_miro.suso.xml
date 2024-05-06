@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>ZAFO_MIRO</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <FIEL2>BUKRS</FIEL2>
+    <OCLSS>ZAFO</OCLSS>
+   </TOBJ>
+   <TOBJT>
+    <LANGU>1</LANGU>
+    <OBJECT>ZAFO_MIRO</OBJECT>
+    <TTEXT>对账单操作</TTEXT>
+   </TOBJT>
+   <TOBJVORFLG>
+    <OBJCT>ZAFO_MIRO</OBJCT>
+   </TOBJVORFLG>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>ZAFO_MIRO</BROBJ>
+     <ACTVT>01</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZAFO_MIRO</BROBJ>
+     <ACTVT>02</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZAFO_MIRO</BROBJ>
+     <ACTVT>03</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZAFO_MIRO</BROBJ>
+     <ACTVT>04</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZAFO_MIRO</BROBJ>
+     <ACTVT>06</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZAFO_MIRO</BROBJ>
+     <ACTVT>10</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
